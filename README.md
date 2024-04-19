@@ -101,4 +101,5 @@
 
 ---
 
-- Автор: Discorre.fsd
+- Автор: intscoula
+- 
